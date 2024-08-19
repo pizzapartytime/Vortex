@@ -1,5 +1,6 @@
-# Out of the Vortex Mega Drive (Genesis) ROM
+## Out of the Vortex Mega Drive (Genesis) ROM
 ### This thing still has bugs in it, but it is much more completable than the version on Hidden Palace. One class of show-stopping bugs vanquished as of 8/19/2024
+
 
 Hi, this is my build with bug fixes for the unreleased Cryo game Out of the Vortex.
 
