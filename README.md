@@ -1,4 +1,4 @@
-## Out of the Vortex Mega Drive (Genesis) ROM
+## Out of the Vortex - Mega Drive (Genesis) ROM
 #### Hi, this is my build with bug fixes for the unreleased Cryo game Out of the Vortex.
 
 The original code, files, and build of the game from a development cart are at [Hidden Palace](https://hiddenpalace.org/News/Vanished_without_a_Trace_-_Out_of_the_Vortex_for_the_Sega_Mega_Drive)
