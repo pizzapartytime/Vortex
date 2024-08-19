@@ -7,6 +7,6 @@ Many Thanks to them for their preservation work, and many thanks to one of the o
 
 The game was brought to my attention by [twitch.tv/macaw45](twitch.tv/macaw45) who has an insatiable appetite for Cryo games. He put a bounty offer out for someone to fix the bugs impeding a satisfying playthrough. The opportunity to do some Mega Drive programming for a community passionate about the game has been irresistible.
 
-#### There are still bugs, but it is much more completable than the version on Hidden Palace. 
+#### There are still bugs, but it is more completable than the first released. 
   - One class of show-stopping bugs vanquished as of 8/19/2024
 
