@@ -7,6 +7,6 @@ Many Thanks to them for their preservation work, and many thanks to one of the o
 
 The game was brought to my attention by [twitch.tv/macaw45](twitch.tv/macaw45) who has an insatiable appetite for Cryo games. He put a bounty offer out for someone to fix the bugs impeding a satisfying playthrough. The opportunity to do some Mega Drive programming for a community passionate about the game has been irresistible.
 
-#### There are still bugs, but it is more completable than the first released. 
+#### There are still bugs, but it is more completable than the first rom released. 
   - See The issues tab for list of documented bugs and submit an issue to me if you find another one.
 
