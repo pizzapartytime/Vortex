@@ -11,6 +11,6 @@ The game was brought to my attention by [twitch.tv/macaw45](twitch.tv/macaw45) w
   - See The issues tab for list of documented bugs and submit an issue to me if you find another one.
 
 #### Suggested Emulator
-  - BlastEm, get the latest nightbuild here: (https://www.retrodev.com/blastem/nightlies/)
+  - BlastEm, get the latest nightbuild here: https://www.retrodev.com/blastem/nightlies/
 
 #### Guide for how you can log and send me a game crash coming soon
