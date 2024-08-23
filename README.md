@@ -14,7 +14,7 @@ The game was brought to my attention by [twitch.tv/macaw45](https://twitch.tv/ma
   - BlastEm, get the latest nightbuild here: https://www.retrodev.com/blastem/nightlies/
 
 #### Guide for how you can log a crash with BlastEm:
-- Run BlastEm from the command-line with a rom and the -l option which produces a file called address.log in thhe blastem folder:
+- Run BlastEm from the command-line with a rom and the -l option which produces a file called address.log in the blastem folder:
 	blastem.exe [rom name] -l
 - If the game hangs, take a screen show of the hung game state
 - Click on the blastem game window and hit 'u' on your keyboard which will open the blastem debugger command-line window
