@@ -16,5 +16,5 @@ The game was brought to my attention by [twitch.tv/macaw45](https://twitch.tv/ma
 #### Guide for how you can help with testing:
 - Run BlastEm from the command-line with a rom and the -l option which produces a file called address.log in thhe blastem folder:
 	blastem.exe [rom name] -l
-- If the game hangs, take a screen show of the frozen game state.
+- If the game hangs, take a screen shot of the frozen game state.
 - Send me the game screenshot, the address.log, and a description of the game state if you can. I will try to sort out the bug, thanks!
